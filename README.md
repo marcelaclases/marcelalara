@@ -18,4 +18,4 @@ He desarrollado aplicaciones web Full Stack como **Happy Rents** (plataforma de 
 ### 📫 ¿Cómo contactarme?
 - **Email:** marcelalarasaldias@gmail.com
 - **LinkedIn:** www.linkedin.com/in/marcela-lara-0b617352
-- **GitHub:** https://github.com/marcelalara
+- **GitHub:** https://github.com/marcelaclases/marcelalara
